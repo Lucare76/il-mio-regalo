@@ -164,7 +164,7 @@ Per Aurora, per Ilenia… per me.
 
 Siamo casa perché ci sei tu.
 
-Ti amo. Sempre.`;
+Ti amo.`;
 
   const [shown, setShown] = useState("");
 
@@ -470,7 +470,7 @@ export default function App() {
           </h2>
 
           <p className="text-2xl text-slate-500 italic leading-relaxed max-w-2xl mx-auto">
-            "Grazie per l'amore infinito, per la pazienza e per essere il cuore pulsante di questa splendida famiglia."
+            "Grazie ancora per l'amore infinito, per la pazienza e per essere il cuore pulsante di questa splendida famiglia."
           </p>
 
           <div className="flex flex-col items-center gap-4">
